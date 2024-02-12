@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazar (AlesonDev)</h1>
-<h3 align="center">Avid .net developer from Lviv</h3>
+<h3 align="center">Avid .Net developer from Lviv</h3>
 
 - 🌱 I’m currently learning **Angular, Blazor**
 
